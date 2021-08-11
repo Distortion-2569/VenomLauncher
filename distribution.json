@@ -13,7 +13,7 @@
       "description": "Venom Faction, decouvrez minecraft sous un autre angle",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "node-1.aryk.fr:25169",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
