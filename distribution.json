@@ -2,15 +2,15 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "",
+    "smallImageText": "V1",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
-      "id": "VenomSurvival-1.7.10",
-      "name": "VenomSurvival (Minecraft 1.7.10)",
-      "description": "VenomSurvival Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "id": "VenomFaction",
+      "name": "VenomFaction",
+      "description": "Venom Faction, decouvrez minecraft sous un autre angle",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 3018833,
             "MD5": "add0fba161c4652a96efb4264ec2d9ec",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+            "url": "https://github.com/Distortion-2569/forge/raw/main/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://github.com/Distortion-2569/forge/raw/main/launchwrapper-1.12.jar"
               }
             },
             {
