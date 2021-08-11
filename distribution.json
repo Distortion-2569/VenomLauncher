@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "",
+    "clientId": "607345744835248156",
     "smallImageText": "V1",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
